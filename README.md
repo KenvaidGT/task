@@ -1,4 +1,2 @@
-# task
-ergeg - feature - feature1
-feature1
-feature2
+Tomass Nedveds  3B-2
+
